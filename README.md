@@ -14,7 +14,7 @@ I am a cyber security student at NIIT Port-Harcourt, passionate about defensive 
 ## Projects 
 | Project | Discription | Repository |
 |---------|-------------|------------|
-|Osint Investigation | Conducted an OSINT investigation on a target organization | Coming soon |
+|Osint Investigation | Conducted an OSINT investigation on a target organization | https://github.com/amoungzus/osint-project |
 | LOG ANALYSIS | Analysed IIS and Windows invent Logs to identify attacks | coming soon |
 | Malware Analysis| Completed a Malware analysis Project | coming soon |
 
